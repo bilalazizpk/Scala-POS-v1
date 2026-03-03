@@ -1,0 +1,22 @@
+﻿{
+  "orderNumber": "ORD-12345",
+  "orderDate": "2026-03-02T19:00:00Z",
+  "subTotal": 20.0,
+  "tax": 2.0,
+  "discount": 0.0,
+  "totalAmount": 22.0,
+  "orderStatus": "Completed",
+  "orderType": "dine-in",
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "pointsRedeemed": 0,
+  "pointsDiscountAmount": 0,
+  "items": [
+    {
+      "productId": 1,
+      "quantity": 1,
+      "unitPrice": 20.0,
+      "totalPrice": 20.0
+    }
+  ]
+}

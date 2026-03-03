@@ -1,0 +1,9 @@
+C:\Users\bilal\Desktop\Scala POS\Endpoints\AccountingEndpoints.cs(45,14): error CS1061: 'RouteHandlerBuilder' does not contain a definition for 'WithOpenApi' and no accessible extension method 'WithOpenApi' accepting a first argument of type 'RouteHandlerBuilder' could be found (are you missing a using directive or an assembly reference?) [C:\Users\bilal\Desktop\Scala POS\ScalaPOS.csproj]
+C:\Users\bilal\Desktop\Scala POS\Endpoints\AccountingEndpoints.cs(77,14): error CS1061: 'RouteHandlerBuilder' does not contain a definition for 'WithOpenApi' and no accessible extension method 'WithOpenApi' accepting a first argument of type 'RouteHandlerBuilder' could be found (are you missing a using directive or an assembly reference?) [C:\Users\bilal\Desktop\Scala POS\ScalaPOS.csproj]
+C:\Users\bilal\Desktop\Scala POS\Endpoints\AccountingEndpoints.cs(103,14): error CS1061: 'RouteHandlerBuilder' does not contain a definition for 'WithOpenApi' and no accessible extension method 'WithOpenApi' accepting a first argument of type 'RouteHandlerBuilder' could be found (are you missing a using directive or an assembly reference?) [C:\Users\bilal\Desktop\Scala POS\ScalaPOS.csproj]
+
+Build FAILED.
+    48 Warning(s)
+    3 Error(s)
+
+Time Elapsed 00:00:02.62
