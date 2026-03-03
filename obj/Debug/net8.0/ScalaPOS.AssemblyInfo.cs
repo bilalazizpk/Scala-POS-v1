@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScalaPOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e333968e551361cc83dcf71ee51acf2375d14ab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScalaPOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScalaPOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

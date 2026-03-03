@@ -148,4 +148,16 @@ export const aiService = {
   askAnalytics: (payload) => api.post('/v1/ai/analytics/ask', payload),
 };
 
+export const reservationService = {
+  getAll: () => api.get('/v1/reservations'),
+  create: (data) => api.post('/v1/reservations', data),
+  updateStatus: (id, status) => api.put(`/v1/reservations/${id}/status`, { id, status }),
+};
+
+export const waitlistService = {
+  getAll: () => api.get('/v1/waitlist'),
+  join: (data) => api.post('/v1/waitlist', data),
+  updateStatus: (id, status) => api.put(`/v1/waitlist/${id}/status`, { id, status }),
+};
+
 export default api;

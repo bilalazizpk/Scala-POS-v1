@@ -44,6 +44,7 @@ const navItems = [
   { label: "WhatsApp", icon: MessageCircle, href: "/dashboard/whatsapp" },
   { label: "Analytics", icon: BarChart2, href: "/dashboard/analytics" },
   { label: "Offline Sync", icon: CloudCog, href: "/dashboard/sync" },
+  { label: "Reservations", icon: Users, href: "/dashboard/reservations" },
   { label: "Settings", icon: Settings, href: "/dashboard/settings" },
 ];
 

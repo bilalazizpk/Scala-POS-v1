@@ -30,6 +30,7 @@ import DocumentsPage from './pages/Documents/DocumentsPage';
 import SpreadsheetBIPage from './pages/Analytics/SpreadsheetBIPage';
 import OfflineSyncPage from './pages/Sync/OfflineSyncPage';
 import WhatsAppPage from './pages/WhatsApp/WhatsAppPage';
+import Reservations from './pages/Reservations/Reservations';
 
 // Protected Route Component
 const ProtectedRoute = ({ children }) => {
@@ -86,6 +87,7 @@ function App() {
             <Route path="analytics" element={<SpreadsheetBIPage />} />
             <Route path="sync" element={<OfflineSyncPage />} />
             <Route path="whatsapp" element={<WhatsAppPage />} />
+            <Route path="reservations" element={<Reservations />} />
             <Route path="settings" element={<SettingsPage />} />
 
           </Route>
